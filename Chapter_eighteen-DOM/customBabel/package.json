@@ -1,0 +1,29 @@
+{
+  "name": "custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "webpack-cli serve --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.12.7",
+    "@babel/core": "^7.12.7",
+    "@babel/node": "^7.12.6",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-transform-strict-mode": "^7.12.1",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/register": "^7.12.1",
+    "@webpack-cli/init": "^1.0.3",
+    "babel-loader": "^8.2.1",
+    "babel-register": "^6.26.0",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
