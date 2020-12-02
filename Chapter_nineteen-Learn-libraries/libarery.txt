@@ -1,0 +1,20 @@
+01. JQuery
+02. Loadush
+03. Underscore.js
+04. Math.js
+05. Momment.js
+06. collect.js
+o7. axios.js
+
+//Moble Layout APP
+01. Adobe PhoneGap
+02. Adobe cordoba
+03. Ionic 
+04. Nativescript
+05. meteor
+06. React Native
+
+//Desktop Application
+01. Electron.js
+02. NW.js
+03. App.js
